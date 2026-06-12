@@ -1,0 +1,47 @@
+"Requirements: Create a menu-driven 2D Graphics Editor in C using '*' and '_' characters. Include line, rectangle, triangle, circle, delete area, modify rectangle, display canvas, and clear canvas."
+
+"Give me the complete C code for the 2D Graphics Editor."
+
+"Explain the code step by step."
+
+"Write the algorithm for this project."
+
+"Write the flowchart for this project."
+
+"Give me step-by-step procedure to create this project in Antigravity IDE."
+
+"How do I compile and run this program in Antigravity IDE?"
+
+"What should I include in the GitHub repository?"
+
+"Now what about .gitignore and LICENSE?"
+
+"Create a professional README.md file for this project."
+
+"Give me the Git commands to upload this project to GitHub."
+
+"How do I create a new GitHub repository and push the code?"
+
+"How do I update the repository after making changes?"
+
+"Give me sample test cases and outputs."
+
+"Give me sample inputs to test all features of the graphics editor."
+
+"Generate viva questions and answers for this project."
+
+"Explain Bresenham's Line Drawing Algorithm used in the project."
+
+"Explain the Midpoint Circle Drawing Algorithm used in the project."
+
+"How can I improve this project for a higher grade?"
+
+"Add color support and shape filling suggestions."
+
+"Give me the complete project documentation."
+
+"Create a project report for submission."
+
+"Create a presentation (PPT) outline for this project."
+
+"Give me the list of prompts that I've used."
